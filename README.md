@@ -163,14 +163,17 @@ Publish the website in the given URL
     </body>
     </HTML>
 
+
+
 ```
+
+
 ## OUTPUT:
 
 
 ![OUTPUT](./images/cal1.png)
 ![OUTPUT](./images/cal2.png)
 ![OUTPUT](./images/cal3.png)
-
 
 ## HTML VALIDATOR:
 ![OUTPUT](./images/calvalidator.png)
