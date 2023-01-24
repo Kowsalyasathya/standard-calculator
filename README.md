@@ -8,23 +8,32 @@ To design a web application for a standard calculator.
 
 ## Step 1:
 Fork and clone the repository.
+
 ## Step 2:
-Create a django project "calculator" and app "calculatorapp". \
+Create a django project "calculator" and app "calculatorapp".
+
 ## Step 3:
 Define urls.py and views.py for the website .Allow host access and add the app name
 under installed apps.
+
 ## Step 4:
 Publish the website in the given URL. Create a templates folder under the app folder
 followed by a folder under templates with the app name followed by html file named
 calculator.html.
+
 ## Step 5:
 Run the server using the command "python3 manage.py runserver" with a port number.
+
 ## Step 6:
 Validate the HTML and CSS code.
+
 ## Step 7:
 Publish the website in the given URL
 
+
+
 ## PROGRAM :
+
 ```
 <!DOCTYPE html>
 <HTML lang="en">
@@ -169,7 +178,6 @@ Publish the website in the given URL
 
 
 ## OUTPUT:
-
 
 ![OUTPUT](./images/cal1.png)
 ![OUTPUT](./images/cal2.png)
